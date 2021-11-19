@@ -19,9 +19,16 @@ A Footer with links to my github and social media
 
 # Installation
 
+Download the Files
+
 Download the required addons with 
-`NPM I
+`npm i
 `
+Use the command `npm start`
+
+
+# Heroku Live Link:
+
 
 
 
