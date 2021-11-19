@@ -8,7 +8,9 @@ https://github.com/awee01/Project-2-Portfolio
 
 # New Additions
 
-Scroll functionality courtesy of react-scroll
+Scroll functionality courtesy of react-scroll,
+
+My added art projects with modal functionality
 
 A new Resume section with a link to my Resume and qualifications that I have learned during my bootcamp experience, 
 
