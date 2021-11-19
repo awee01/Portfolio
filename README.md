@@ -2,7 +2,7 @@
 
 This application is a react version of my html portfolio that I created in the second week of this course
 
-New additions are: 
+**New additions are: **
 
 Scroll functionality courtesy of react-scroll
 
