@@ -14,7 +14,7 @@ function Projects() {
         <section className="workssection" id="Works">
         <div className="flex-row">
             <h2 className="section-title">
-                My Work So Far:
+                Coding Projects
             </h2>
         </div>
 
@@ -96,6 +96,8 @@ function Projects() {
             </article>
 
         </div>
+
+            <br/>
 
 
 

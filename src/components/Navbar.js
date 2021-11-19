@@ -15,6 +15,9 @@ const Navbar = () => {
                 <Link className = "linknav" smooth = {true} to = "Works" offset ={-100}>
                     <a href="#Works">Projects</a>
                 </Link>
+                <Link className = "linknav" smooth = {true} to = "artprojects" offset ={-100}>
+                    <a href="#artprojects">Artwork</a>
+                </Link>
                 <Link className = "linknav" smooth = {true} to = "Resume" offset ={-100}>
                     <a href="#Resume">Resume</a>
                 </Link>
