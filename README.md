@@ -22,8 +22,8 @@ A Footer with links to my github and social media
 Download the Files
 
 Download the required addons with 
-`npm i
-`
+`npm i`
+
 Use the command `npm start`
 
 
