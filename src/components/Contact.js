@@ -2,9 +2,48 @@ import React from 'react'
 
 function Contact() {
     return (
-        <div>
-            
+       
+        <section className="contactsection" id="Contact-Me">
+        <div className="flex-row">
+            <h2 className="section-title">
+                Contact Me
+            </h2>
         </div>
+
+
+
+        </section>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
     )
 }
 

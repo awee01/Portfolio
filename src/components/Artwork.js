@@ -22,36 +22,36 @@ function Artwork() {
 
         <div className="webapps">
             <article className="artapp">
-                <a href = "a1.jpg">
-                    <img src={a1} />
+                <a href = {a1}>
+                    <img src={a1} id = "arthover" />
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a2} />
+                <a href = {a2}> 
+                    <img src={a2} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a3} />
+                <a href = {a3}>
+                    <img src={a3} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a4} />
+                <a href = {a4}>
+                    <img src={a4} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a5} />
+                <a href = {a5}>
+                    <img src={a5} id = "arthover"/>
                 </a>
            
             </article>
@@ -60,36 +60,36 @@ function Artwork() {
 
         <div className="webapps">
         <article className="artapp">
-                <a href>
-                    <img src={a6} />
+                <a href = {a6}>
+                    <img src={a6} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a7} />
+                <a href = {a7}>
+                    <img src={a7} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a8} />
+                <a href = {a8}>
+                    <img src={a8} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a9} />
+                <a href = {a9}>
+                    <img src={a9} id = "arthover"/>
                 </a>
            
             </article>
 
             <article className="artapp">
-                <a href>
-                    <img src={a10} />
+                <a href = {a10}>
+                    <img src={a10} id = "arthover"/>
                 </a>
            
             </article>

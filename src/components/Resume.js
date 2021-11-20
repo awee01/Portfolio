@@ -1,20 +1,25 @@
 import React from 'react'
 import resumepdf from "../images/Adi Wee Resume.pdf"
+import bluepage from  "../images/bluepage.jpg"
+
 
 const Resume = () => {
     return (
-    <div className="resume" id = "Resume">
+    <div className="resume" id = "Resume" >
             
     <div>
-        <h1> My Resume and Technical Skills</h1>
-
-        <br/>
+       
+        <div className="flex-row">
+            <h2 className="section-titlewhite">
+                My Resume and Technical skills
+            </h2>
+        </div>
 
         <button className="resumebutton"> <a className ="resumetext" href = {resumepdf}> Click to Download my Resume </a></button>
 
-
         
     </div>
+
 
     <br/>
 
