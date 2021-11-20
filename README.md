@@ -26,12 +26,16 @@ Download the Files
 Download the required addons with 
 `npm i`
 
-Use the command `npm start`
+Use the command `npm start`in the root folder
 
+Website will automatically open at  http://localhost:3000/
 
 # Live Link:
 
+
+
 ![image](https://user-images.githubusercontent.com/85651950/142716582-37c39462-4003-4a9e-9502-8743ac657062.png)
+
 ![image](https://user-images.githubusercontent.com/85651950/142716589-afb6f9a8-4c81-4ee2-bc04-4c75a382a6d8.png)
 
 
