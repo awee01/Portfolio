@@ -1,6 +1,6 @@
 import React from 'react'
 import resumepdf from "../images/Adi Wee Resume.pdf"
-import bluepage from  "../images/bluepage.jpg"
+
 
 
 const Resume = () => {

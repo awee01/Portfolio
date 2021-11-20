@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: linear-gradient(rgb(212, 212, 212), rgb(145, 144, 144));
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(145, 144, 144));
   font-family: Arial;
  
 }
@@ -115,7 +115,7 @@ section {
 
 .contactsection {
 
-  background-color: silver;
+  background-image: url(./images/contactme.jpg);
 }
 
 .section-title {
@@ -254,25 +254,23 @@ section {
   line-height: 100px;
  }
 
+#contactcontainer {
 
-
-
-
-
-
-
-
-
-
-
-
-
+  justify-content: center;
  
+  text-align: center;
+}
+
+
+
+
+
+
+
 
 
  footer{
-  position: fixed;
-  bottom: 0;
+    bottom: 0;
  }
  .footer-distributed{
   background-color: #292c2f;
