@@ -42,12 +42,6 @@ function Artwork() {
            
             </article>
 
-            <article className="artapp">
-                <a href = {a4}>
-                    <img src={a4} id = "arthover"/>
-                </a>
-           
-            </article>
 
             <article className="artapp">
                 <a href = {a5}>
